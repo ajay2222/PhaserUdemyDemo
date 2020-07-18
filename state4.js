@@ -1,11 +1,12 @@
-demo.state1 = function(){};
+var i;
 
-demo.state1.prototype = {
+demo.state4 = function(){};
+demo.state4.prototype = {
   preload: function(){
     
   },
   create: function(){
-    game.stage.backgroundColor = "#99eeff";
+    game.stage.backgroundColor = "#9933ff";
     addChangeStateEventListeners();
   },
   update: function(){
