@@ -11,3 +11,5 @@ demo.state9.prototype = {
     
   }
 };
+
+var myobject = {};
