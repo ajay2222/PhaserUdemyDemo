@@ -12,4 +12,4 @@ demo.state9.prototype = {
   }
 };
 
-var myobject = {b:2};
+var myobject1 = {b:2};
